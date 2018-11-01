@@ -1,4 +1,3 @@
 <?php
-    $ans = "1";
-    echo $ans;
+    echo "Hello world!";
 ?>
